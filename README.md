@@ -41,4 +41,11 @@ Let's take a closer look at details that may affect your data infrastructure.
 
 Ok, maybe one single relational database won’t suffice :)
 
+# Business Process
 ![Business Process](/Images/Business-Process.png)
+
+# Fact vs Dimension
+
+![Fact-Dimension](/Images/Fact-Dimension.png)
+
+![Fact-Dimension](/Images/Fact-Dimension2.png)
