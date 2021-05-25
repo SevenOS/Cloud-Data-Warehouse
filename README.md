@@ -40,3 +40,5 @@ Let's take a closer look at details that may affect your data infrastructure.
 - HR, Marketing & Sales Reports want a lot information but have not decided yet on everything they need → Clear Requirements?
 
 Ok, maybe one single relational database won’t suffice :)
+
+![Business Process](/images/Business-Process.png)
