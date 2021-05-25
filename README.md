@@ -41,4 +41,4 @@ Let's take a closer look at details that may affect your data infrastructure.
 
 Ok, maybe one single relational database won’t suffice :)
 
-![Business Process](/images/Business-Process.png)
+![Business Process](/Images/Business-Process.png)
